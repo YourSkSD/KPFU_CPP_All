@@ -1,5 +1,5 @@
-#ifndef __FIRST_PRACTICE.HPP
-#define __FIRST_PRACTICE.HPP
+#ifndef __FIRST_PRACTICE_HPP
+#define __FIRST_PRACTICE_HPP
 
 template<typename T>
 void swap(T& a, T& b) {

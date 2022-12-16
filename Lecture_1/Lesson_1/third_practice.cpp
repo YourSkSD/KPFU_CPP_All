@@ -6,12 +6,6 @@ void tests_third_practice::ttp_3_0() {
 	std::cout << std::endl;
 }
 
-void tests_third_practice::ttp_3_0() {
-	Equation<double> d(0, 0, 0);
-	d.solve();
-	std::cout << std::endl;
-}
-
 void tests_third_practice::ttp_3_1() {
 	Equation<double> d(0, 0, 3);
 	d.solve();

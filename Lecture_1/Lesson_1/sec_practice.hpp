@@ -1,5 +1,5 @@
-#ifndef __SEC_PRACTICE.HPP
-#define __SEC_PRACTICE.HPP
+#ifndef __SEC_PRACTICE_HPP
+#define __SEC_PRACTICE_HPP
 
 #include <iostream>
 #include <string>

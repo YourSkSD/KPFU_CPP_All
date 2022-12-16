@@ -1,5 +1,5 @@
-#ifndef __THIRD_PRACTICE.HPP
-#define __THIRD_PRACTICE.HPP
+#ifndef __THIRD_PRACTICE_HPP
+#define __THIRD_PRACTICE_HPP
 
 #include <iostream>
 
@@ -40,7 +40,7 @@ template<typename T>
 double sqrt(const T root) {
 	double n = root / 2.;
 	double bottom = 0.;
-	while (n != botoom) {
+	while (n != bottom) {
 		bottom = n;
 		n = (n + root / 2) / 2.;
 	}
