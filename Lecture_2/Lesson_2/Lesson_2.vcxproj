@@ -128,10 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="example.cpp" />
+    <ClCompile Include="first_practice.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="second_practice.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="example.hpp" />
+    <ClInclude Include="first_practice.hpp" />
+    <ClInclude Include="second_practice.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
