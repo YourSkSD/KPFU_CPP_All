@@ -6,11 +6,13 @@
 #include <string>
 #include <iostream>
 
-using std::cout, std::endl, std::string;
+using std::cout;
+using std::endl;
+using std::string;
 
 class Complex {
 public:
-    double r, i;
+    double real, imag;
 };
 
 class Matrix {
@@ -22,7 +24,7 @@ public:
 
 class Real {
 public:
-    double r;
+    double real;
 };
 
 
